@@ -1,2 +1,31 @@
-# CUHK-PyTutorial-2018
-Python 101 Summer Tutorials for CUHK MSc Data Science and Business Statistics, in July - August 2018
+*(Updated on 26 June 2018)* 
+# Welcome ! Python 101 Summer Tutorials 2018
+This is the material page for Python 101 Summer Tutorials, in July - August 2018.
+A part of CUHK MSc Program in Data Science and Business Statistics.
+
+This tutorial series will be completed at 1900 - 2130, in 5 Thursdays. 
+The following is the schedule.
+Hopefully all you guys can enjoy ~ ! :sunglasses:
+
+## Schedule
+12 July 2018 - Week 1 - Python Basic Codes
+  * Introduction to Python, with Jupyter / Spyder
+  * Python Variable Types, Functions, Read & Write Files
+  * Objects / List, map, lambda
+
+19 July 2018 - Week 2 - Pandas for Data Processing
+
+26 July 2018 - Week 3 - Pandas for Data Processing - continue...
+  * Python Data Analysis Package: Pandas, Series / DataFrame Data Structure
+  * Querying Series / DataFrame
+  * Indexing DataFrame, Handling Missing Values
+  * Merging, Aggregating DataFrames
+  * Date-time Variable Manipulation
+
+2 Aug 2018 - Week 4 - Descriptive Statistics
+  * Uni-variate Statistics
+  * Statistical Distributions, Generate Random numbers
+
+9 Aug 2018 - Week 5 - Plots
+  * Python Data Visual Package: Matplotlib, Scatter plots, line plots, bar plots
+  * Subplots, Histograms, Box Plots, Heat maps
