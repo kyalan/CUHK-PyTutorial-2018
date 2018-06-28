@@ -3,6 +3,9 @@
 Materials in Week 1 are updated.
 
 Please download the whole folder by pressing the light green button at top-right corner.
+![alt text][downloadButton]
+
+[downloadButton]: https://github.com/kyalan/CUHK-PyTutorial-2018/blob/master/Image/DownloadButton.PNG "Logo Title Text 2"
 
 ---
 
