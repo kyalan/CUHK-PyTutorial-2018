@@ -1,0 +1,369 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+2018-01-02,Iraq,United Arab Emirates,0,0,Friendly,Kuwait City,Kuwait,TRUE
+2018-01-02,Oman,Bahrain,1,0,Friendly,Kuwait City,Kuwait,TRUE
+2018-01-05,Oman,United Arab Emirates,0,0,Friendly,Kuwait City,Kuwait,TRUE
+2018-01-07,Estonia,Sweden,1,1,Friendly,Abu Dhabi,United Arab Emirates,TRUE
+2018-01-11,Denmark,Sweden,0,1,Friendly,Abu Dhabi,United Arab Emirates,TRUE
+2018-01-11,Indonesia,Iceland,0,6,Friendly,Sleman,Indonesia,FALSE
+2018-01-11,Jordan,Finland,1,2,Friendly,Abu Dhabi,United Arab Emirates,TRUE
+2018-01-14,Indonesia,Iceland,1,4,Friendly,Jakarta,Indonesia,FALSE
+2018-01-27,Moldova,Korea Republic,0,1,Friendly,Antalya,Turkey,TRUE
+2018-01-28,USA,Bosnia-Herzegovina,0,0,Friendly,Carson,USA,FALSE
+2018-01-30,Azerbaijan,Moldova,0,0,Friendly,Antalya,Turkey,TRUE
+2018-01-30,Jamaica,Korea Republic,2,2,Friendly,Antalya,Turkey,TRUE
+2018-01-31,Mexico,Bosnia-Herzegovina,1,0,Friendly,San Antonio,USA,TRUE
+2018-02-03,Latvia,Korea Republic,0,1,Friendly,Antalya,Turkey,TRUE
+2018-02-26,Saudi Arabia,Moldova,3,0,Friendly,Jeddah,Saudi Arabia,FALSE
+2018-02-28,Iraq,Saudi Arabia,4,1,Friendly,Basra,Iraq,FALSE
+2018-03-17,Iran,Sierra Leone,4,0,Friendly,Teheran,Iran,FALSE
+2018-03-21,Andorra,Liechtenstein,1,0,Friendly,La L??nea de la Concepci??n,Spain,TRUE
+2018-03-21,Antigua and Barbuda,Bermuda,3,2,Friendly,St. John's,Antigua and Barbuda,FALSE
+2018-03-21,Iraq,Qatar,2,3,Friendly,Basra,Iraq,FALSE
+2018-03-21,Jordan,Kuwait,1,0,Friendly,Amman,Jordan,FALSE
+2018-03-21,Laos,Cambodia,0,1,Friendly,Vientiane,Laos,FALSE
+2018-03-21,Madagascar,Togo,0,0,Friendly,Saint-Leu-la-For??t,France,TRUE
+2018-03-21,South Africa,Angola,1,1,Friendly,Ndola,Zambia,TRUE
+2018-03-21,Tahiti,New Caledonia,0,0,Friendly,Pirae,Tahiti,FALSE
+2018-03-21,Zambia,Zimbabwe,2,2,Friendly,Ndola,Zambia,FALSE
+2018-03-22,Algeria,Tanzania,4,1,Friendly,Algiers,Algeria,FALSE
+2018-03-22,Bahrain,Palestine,0,0,Friendly,Riffa,Bahrain,FALSE
+2018-03-22,Belize,Grenada,4,2,Friendly,Belmopan,Belize,FALSE
+2018-03-22,Burkina Faso,Guinea-Bissau,2,0,Friendly,Limeil-Br??vannes,France,TRUE
+2018-03-22,China,Wales,0,6,Friendly,Nanning,China,FALSE
+2018-03-22,Denmark,Panama,1,0,Friendly,Br??ndby,Denmark,FALSE
+2018-03-22,Dominican Republic,Turks and Caicos Islands,4,0,Friendly,Santo Domingo,Dominican Republic,FALSE
+2018-03-22,Faroe Islands,Latvia,1,1,Friendly,San Pedro de Alc??ntara,Spain,TRUE
+2018-03-22,Kyrgyzstan,Burma,5,1,AFC Asian Cup qualification,Incheon,Korea Republic,TRUE
+2018-03-22,Macau,Mauritius,0,1,Friendly,Macau,Macau,FALSE
+2018-03-22,Malaysia,Mongolia,2,2,Friendly,Kuala Lumpur,Malaysia,FALSE
+2018-03-22,Malta,Luxembourg,0,1,Friendly,Attard,Malta,FALSE
+2018-03-22,Nicaragua,Cuba,3,1,Friendly,Managua,Nicaragua,FALSE
+2018-03-22,Philippines,Fiji,3,2,Friendly,Manila,Philippines,FALSE
+2018-03-22,Slovakia,United Arab Emirates,2,1,Friendly,Bangkok,Thailand,TRUE
+2018-03-22,Thailand,Gabon,0,0,Friendly,Bangkok,Thailand,FALSE
+2018-03-23,Austria,Slovenia,3,0,Friendly,Klagenfurt,Austria,FALSE
+2018-03-23,Azerbaijan,Belarus,0,1,Friendly,Baku,Azerbaijan,FALSE
+2018-03-23,Bulgaria,Bosnia-Herzegovina,0,1,Friendly,Razgrad,Bulgaria,FALSE
+2018-03-23,Cura??ao,Bolivia,1,1,Friendly,Willemstad,Cura??ao,FALSE
+2018-03-23,Cyprus,Montenegro,0,0,Friendly,Nicosia,Cyprus,FALSE
+2018-03-23,Finland,Macedonia,0,0,Friendly,Belek,Turkey,TRUE
+2018-03-23,France,Colombia,2,3,Friendly,Saint-Denis,France,FALSE
+2018-03-23,Gambia,Central African Republic,1,1,Friendly,Bakau,Gambia,FALSE
+2018-03-23,Germany,Spain,1,1,Friendly,D??sseldorf,Germany,FALSE
+2018-03-23,Greece,Switzerland,0,1,Friendly,Athens,Greece,FALSE
+2018-03-23,Guadeloupe,Trinidad and Tobago,0,1,Friendly,Les Abymes,Guadeloupe,FALSE
+2018-03-23,Hungary,Kazakhstan,2,3,Friendly,Budapest,Hungary,FALSE
+2018-03-23,Italy,Argentina,0,2,Friendly,Manchester,England,TRUE
+2018-03-23,Japan,Mali,1,1,Friendly,Li??ge,Belgium,TRUE
+2018-03-23,Mexico,Iceland,3,0,Friendly,Santa Clara,USA,TRUE
+2018-03-23,Netherlands,England,0,1,Friendly,Amsterdam,Netherlands,FALSE
+2018-03-23,Norway,Australia,4,1,Friendly,Oslo,Norway,FALSE
+2018-03-23,Peru,Croatia,2,0,Friendly,Miami Gardens,USA,TRUE
+2018-03-23,Poland,Nigeria,0,1,Friendly,Wroc??aw,Poland,FALSE
+2018-03-23,Portugal,Egypt,2,1,Friendly,Z??rich,Switzerland,TRUE
+2018-03-23,Russia,Brazil,0,3,Friendly,Moscow,Russia,FALSE
+2018-03-23,Scotland,Costa Rica,0,1,Friendly,Glasgow,Scotland,FALSE
+2018-03-23,Senegal,Uzbekistan,1,1,Friendly,Casablanca,Morocco,TRUE
+2018-03-23,Serbia,Morocco,1,2,Friendly,Turin,Italy,TRUE
+2018-03-23,Singapore,Maldives,3,2,Friendly,Kallang,Singapore,FALSE
+2018-03-23,Tunisia,Iran,1,0,Friendly,Rad??s,Tunisia,FALSE
+2018-03-23,Turkey,Ireland,1,0,Friendly,Antalya,Turkey,FALSE
+2018-03-23,Ukraine,Saudi Arabia,1,1,Friendly,Marbella,Spain,TRUE
+2018-03-23,Uruguay,Czech Republic,2,0,Friendly,Nanning,China,TRUE
+2018-03-24,Angola,Zimbabwe,2,2,Friendly,Ndola,Zambia,TRUE
+2018-03-24,Armenia,Estonia,0,0,Friendly,Yerevan,Armenia,FALSE
+2018-03-24,Botswana,Lesotho,1,0,Friendly,Gaborone,Botswana,FALSE
+2018-03-24,Canada,New Zealand,1,0,Friendly,San Pedro del Pinatar,Spain,TRUE
+2018-03-24,Comoros,Kenya,2,2,Friendly,Marrakech,Morocco,TRUE
+2018-03-24,Georgia,Lithuania,4,0,Friendly,Tbilisi,Georgia,FALSE
+2018-03-24,Israel,Romania,1,2,Friendly,Netanya,Israel,FALSE
+2018-03-24,Ivory Coast,Togo,2,2,Friendly,Beauvais,France,TRUE
+2018-03-24,Kosovo,Madagascar,1,0,Friendly,Franconville,France,TRUE
+2018-03-24,Mauritania,Guinea,2,0,Friendly,Nouakchott,Mauritania,FALSE
+2018-03-24,Northern Ireland,Korea Republic,2,1,Friendly,Belfast,Northern Ireland,FALSE
+2018-03-24,Qatar,Syria,2,2,Friendly,Basra,Iraq,TRUE
+2018-03-24,Sweden,Chile,1,2,Friendly,Solna,Sweden,FALSE
+2018-03-24,Tahiti,New Caledonia,4,3,Friendly,Pirae,Tahiti,FALSE
+2018-03-24,Uganda,S??o Tom?? and Pr??ncipe,3,1,Friendly,Kampala,Uganda,FALSE
+2018-03-24,Zambia,South Africa,0,2,Friendly,Ndola,Zambia,FALSE
+2018-03-25,Barbados,Bermuda,0,0,Friendly,Bridgetown,Barbados,FALSE
+2018-03-25,Dominican Republic,St. Kitts and Nevis,2,1,Friendly,Santiago,Dominican Republic,FALSE
+2018-03-25,Faroe Islands,Liechtenstein,3,0,Friendly,Marbella,Spain,TRUE
+2018-03-25,Gibraltar,Latvia,1,0,Friendly,Gibraltar,Gibraltar,FALSE
+2018-03-25,Jamaica,Antigua and Barbuda,1,1,Friendly,Kingston,Jamaica,FALSE
+2018-03-25,Kuwait,Cameroon,1,3,Friendly,Kuwait City,Kuwait,FALSE
+2018-03-25,Martinique,Trinidad and Tobago,0,0,Friendly,Fort-de-France,Martinique,FALSE
+2018-03-25,Nicaragua,Cuba,3,3,Friendly,Managua,Nicaragua,FALSE
+2018-03-25,Thailand,Slovakia,2,3,Friendly,Bangkok,Thailand,FALSE
+2018-03-26,Albania,Norway,0,1,Friendly,Elbasan,Albania,FALSE
+2018-03-26,Bulgaria,Kazakhstan,2,1,Friendly,Felcs??t,Hungary,TRUE
+2018-03-26,China,Czech Republic,1,4,Friendly,Nanning,China,FALSE
+2018-03-26,Cura??ao,Bolivia,1,0,Friendly,Willemstad,Cura??ao,FALSE
+2018-03-26,Finland,Malta,5,0,Friendly,Belek,Turkey,TRUE
+2018-03-26,Portugal,Netherlands,0,3,Friendly,Geneva,Switzerland,TRUE
+2018-03-26,Wales,Uruguay,0,1,Friendly,Nanning,China,TRUE
+2018-03-27,Afghanistan,Cambodia,2,1,AFC Asian Cup qualification,Dushanbe,Tajikistan,TRUE
+2018-03-27,Algeria,Iran,1,2,Friendly,Graz,Austria,TRUE
+2018-03-27,Armenia,Lithuania,0,1,Friendly,Yerevan,Armenia,FALSE
+2018-03-27,Australia,Colombia,0,0,Friendly,London,England,TRUE
+2018-03-27,Azerbaijan,Macedonia,1,1,Friendly,Antalya,Turkey,TRUE
+2018-03-27,Bahrain,Turkmenistan,4,0,AFC Asian Cup qualification,Riffa,Bahrain,FALSE
+2018-03-27,Belgium,Saudi Arabia,4,0,Friendly,Brussels,Belgium,FALSE
+2018-03-27,Bosnia-Herzegovina,Senegal,0,0,Friendly,Le Havre,France,TRUE
+2018-03-27,Burma,Macau,1,0,AFC Asian Cup qualification,Rangoon,Burma,FALSE
+2018-03-27,Central African Republic,Kenya,3,2,Friendly,Marrakech,Morocco,TRUE
+2018-03-27,Denmark,Chile,0,0,Friendly,Aalborg,Denmark,FALSE
+2018-03-27,England,Italy,1,1,Friendly,London,England,FALSE
+2018-03-27,Georgia,Estonia,2,0,Friendly,Tbilisi,Georgia,FALSE
+2018-03-27,Germany,Brazil,0,1,Friendly,Berlin,Germany,FALSE
+2018-03-27,Greece,Egypt,1,0,Friendly,Z??rich,Switzerland,TRUE
+2018-03-27,Hungary,Scotland,0,1,Friendly,Budapest,Hungary,FALSE
+2018-03-27,Iraq,Syria,1,1,Friendly,Basra,Iraq,FALSE
+2018-03-27,Jordan,Vietnam,1,1,AFC Asian Cup qualification,Amman,Jordan,FALSE
+2018-03-27,Korea DPR,Hong Kong,2,0,AFC Asian Cup qualification,P'y??ngyang,Korea DPR,FALSE
+2018-03-27,Kosovo,Burkina Faso,2,0,Friendly,Franconville,France,TRUE
+2018-03-27,Kyrgyzstan,India,2,1,AFC Asian Cup qualification,Bishkek,Kyrgyzstan,FALSE
+2018-03-27,Laos,Bangladesh,2,2,Friendly,Vientiane,Laos,FALSE
+2018-03-27,Lebanon,Malaysia,2,1,AFC Asian Cup qualification,Beirut,Lebanon,FALSE
+2018-03-27,Luxembourg,Austria,0,4,Friendly,Luxembourg,Luxembourg,FALSE
+2018-03-27,Maldives,Bhutan,7,0,AFC Asian Cup qualification,Mal??,Maldives,FALSE
+2018-03-27,Mexico,Croatia,0,1,Friendly,Arlington,USA,TRUE
+2018-03-27,Moldova,Ivory Coast,1,2,Friendly,Beauvais,France,TRUE
+2018-03-27,Mongolia,Mauritius,0,2,Friendly,Ulan Bator,Mongolia,FALSE
+2018-03-27,Montenegro,Turkey,2,2,Friendly,Podgorica,Montenegro,FALSE
+2018-03-27,Morocco,Uzbekistan,2,0,Friendly,Casablanca,Morocco,FALSE
+2018-03-27,Namibia,Lesotho,2,1,Friendly,Windhoek,Namibia,FALSE
+2018-03-27,Oman,Palestine,1,0,AFC Asian Cup qualification,Muscat,Oman,FALSE
+2018-03-27,Peru,Iceland,3,1,Friendly,Harrison,USA,TRUE
+2018-03-27,Philippines,Tajikistan,2,1,AFC Asian Cup qualification,Manila,Philippines,FALSE
+2018-03-27,Poland,Korea Republic,3,2,Friendly,Chorz??w,Poland,FALSE
+2018-03-27,Romania,Sweden,1,0,Friendly,Craiova,Romania,FALSE
+2018-03-27,Russia,France,1,3,Friendly,St. Petersburg,Russia,FALSE
+2018-03-27,Serbia,Nigeria,2,0,Friendly,London,England,TRUE
+2018-03-27,Seychelles,Swaziland,0,0,Friendly,Victoria,Seychelles,FALSE
+2018-03-27,Slovenia,Belarus,0,2,Friendly,Ljubljana,Slovenia,FALSE
+2018-03-27,Spain,Argentina,6,1,Friendly,Madrid,Spain,FALSE
+2018-03-27,Switzerland,Panama,6,0,Friendly,Lucerne,Switzerland,FALSE
+2018-03-27,Taiwan,Singapore,1,0,AFC Asian Cup qualification,Taipei,Taiwan,FALSE
+2018-03-27,Tanzania,Congo DR,2,0,Friendly,Dar es Salaam,Tanzania,FALSE
+2018-03-27,Tunisia,Costa Rica,1,0,Friendly,Nice,France,TRUE
+2018-03-27,Uganda,Malawi,0,0,Friendly,Kampala,Uganda,FALSE
+2018-03-27,Ukraine,Japan,2,1,Friendly,Li??ge,Belgium,TRUE
+2018-03-27,USA,Paraguay,1,0,Friendly,Cary,USA,FALSE
+2018-03-27,Yemen,Nepal,2,1,AFC Asian Cup qualification,Doha,Qatar,TRUE
+2018-04-01,Malaysia,Bhutan,7,0,Friendly,Kuala Lumpur,Malaysia,FALSE
+2018-04-18,Trinidad and Tobago,Panama,0,1,Friendly,Couva,Trinidad and Tobago,FALSE
+2018-04-18,Zimbabwe,Botswana,0,1,Friendly,Harare,Zimbabwe,FALSE
+2018-04-26,St. Kitts and Nevis,Jamaica,1,3,Friendly,Basseterre,St. Kitts and Nevis,FALSE
+2018-04-30,Antigua and Barbuda,Jamaica,0,2,Friendly,St. John's,Antigua and Barbuda,FALSE
+2018-05-08,Iraq,Palestine,0,0,Friendly,Basra,Iraq,FALSE
+2018-05-09,Algeria,Saudi Arabia,0,2,Friendly,C??diz,Spain,TRUE
+2018-05-11,Kuwait,Palestine,2,0,Friendly,Kuwait City,Kuwait,FALSE
+2018-05-15,Saudi Arabia,Greece,2,0,Friendly,Seville,Spain,TRUE
+2018-05-19,Iran,Uzbekistan,1,0,Friendly,Teheran,Iran,FALSE
+2018-05-20,Jordan,Cyprus,3,0,Friendly,Amman,Jordan,FALSE
+2018-05-25,Kuwait,Egypt,1,1,Friendly,Kuwait,Kuwait,FALSE
+2018-05-25,Kenya,Swaziland,0,1,Friendly,Machakos,Kenya,FALSE
+2018-05-26,China,Burma,1,0,Friendly,Nanjing,China,FALSE
+2018-05-27,Cameroon,Burkina Faso,0,1,Friendly,Beauvais,France,TRUE
+2018-05-27,Niger,Central African Republic,3,3,Friendly,Niamey,Niger,FALSE
+2018-05-27,Madagascar,Mozambique,2,1,COSAFA Cup,Polokwane,South Africa,TRUE
+2018-05-27,Comoros,Seychelles,1,1,COSAFA Cup,Polokwane,South Africa,TRUE
+2018-05-28,USA,Bolivia,3,0,Friendly,Chester,USA,FALSE
+2018-05-28,Nigeria,Congo DR,1,1,Friendly,Port Harcourt,Nigeria,FALSE
+2018-05-28,Kenya,Equatorial Guinea,1,0,Friendly,Machakos,Kenya,FALSE
+2018-05-28,Portugal,Tunisia,2,2,Friendly,Braga,Portugal,FALSE
+2018-05-28,Italy,Saudi Arabia,2,1,Friendly,St. Gallen,Switzerland,TRUE
+2018-05-28,France,Ireland,2,0,Friendly,Saint-Denis,France,FALSE
+2018-05-28,Mexico,Wales,0,0,Friendly,Pasadena,USA,TRUE
+2018-05-28,Turkey,Iran,2,1,Friendly,Istanbul,Turkey,FALSE
+2018-05-28,Korea Republic,Honduras,2,0,Friendly,Daegu,Korea Republic,FALSE
+2018-05-28,Bosnia-Herzegovina,Montenegro,0,0,Friendly,Zenica,Bosnia-Herzegovina,FALSE
+2018-05-28,Malawi,Mauritius,0,1,COSAFA Cup,Polokwane,South Africa,TRUE
+2018-05-28,Angola,Botswana,1,2,COSAFA Cup,Polokwane,South Africa,TRUE
+2018-05-29,Argentina,Haiti,4,0,Friendly,Buenos Aires,Argentina,FALSE
+2018-05-29,Albania,Kosovo,0,3,Friendly,Z??rich,Switzerland,TRUE
+2018-05-29,Armenia,Malta,1,1,Friendly,Wattens,Austria,TRUE
+2018-05-29,Azerbaijan,Kyrgyzstan,3,0,Friendly,Baku,Azerbaijan,FALSE
+2018-05-29,Peru,Scotland,2,0,Friendly,Lima,Peru,FALSE
+2018-05-29,Panama,Northern Ireland,0,0,Friendly,Panama City,Panama,FALSE
+2018-05-29,Madagascar,Seychelles,1,1,COSAFA Cup,Polokwane,South Africa,TRUE
+2018-05-29,Comoros,Mozambique,0,3,COSAFA Cup,Polokwane,South Africa,TRUE
+2018-05-30,Japan,Ghana,0,2,Friendly,Yokohama,Japan,FALSE
+2018-05-30,Central African Republic,Uganda,1,0,Friendly,Niamey,Niger,TRUE
+2018-05-30,Austria,Russia,1,0,Friendly,Innsbruck,Austria,FALSE
+2018-05-30,Malawi,Botswana,1,1,COSAFA Cup,Polokwane,South Africa,TRUE
+2018-05-30,Angola,Mauritius,1,0,COSAFA Cup,Polokwane,South Africa,TRUE
+2018-05-30,Estonia,Lithuania,2,0,Baltic Cup,Rakvere,Estonia,FALSE
+2018-05-31,Ukraine,Morocco,0,0,Friendly,Geneva,Switzerland,TRUE
+2018-05-31,Romania,Chile,3,2,Friendly,Graz,Austria,TRUE
+2018-05-31,Luxembourg,Senegal,0,0,Friendly,Luxembourg,Luxembourg,FALSE
+2018-05-31,Mozambique,Seychelles,2,1,COSAFA Cup,Polokwane,South Africa,TRUE
+2018-05-31,Comoros,Madagascar,0,1,COSAFA Cup,Polokwane,South Africa,TRUE
+2018-05-31,Slovakia,Netherlands,1,1,Friendly,Trnava,Slovakia,FALSE
+2018-05-31,Ellan Vannin,Cascadia,4,1,ConIFA World Football Cup,Sutton,England,TRUE
+2018-05-31,Barawa,Tamil Eelam,4,0,ConIFA World Football Cup,Bromley,England,FALSE
+2018-05-31,Abkhazia,Tibet,3,0,ConIFA World Football Cup,Enfield,England,TRUE
+2018-05-31,Northern Cyprus,K??rp??talja,1,1,ConIFA World Football Cup,Enfield,England,TRUE
+2018-05-31,Sz??kely Land,Tuvalu,4,0,ConIFA World Football Cup,Haringey,England,TRUE
+2018-05-31,Padania,Matabeleland,6,1,ConIFA World Football Cup,Sutton,England,TRUE
+2018-05-31,United Koreans in Japan,Western Armenia,0,0,ConIFA World Football Cup,Carshalton,England,TRUE
+2018-05-31,Panjab,Kabylia,8,0,ConIFA World Football Cup,Slough,England,TRUE
+2018-06-01,France,Italy,3,1,Friendly,Nice,France,FALSE
+2018-06-01,Turkey,Tunisia,2,2,Friendly,Geneva,Switzerland,TRUE
+2018-06-01,Korea Republic,Bosnia-Herzegovina,1,3,Friendly,Jeonju,Korea Republic,FALSE
+2018-06-01,Czech Republic,Australia,0,4,Friendly,Sankt P??lten,Austria,TRUE
+2018-06-01,Algeria,Cape Verde,2,3,Friendly,Algiers,Algeria,FALSE
+2018-06-01,Colombia,Egypt,0,0,Friendly,Bergamo,Italy,TRUE
+2018-06-01,Malta,Georgia,0,1,Friendly,Schwaz,Austria,TRUE
+2018-06-01,Botswana,Mauritius,6,0,COSAFA Cup,Polokwane,South Africa,TRUE
+2018-06-01,Angola,Malawi,0,0,COSAFA Cup,Polokwane,South Africa,TRUE
+2018-06-01,India,Taiwan,5,0,Friendly,Mumbai,India,FALSE
+2018-06-02,El Salvador,Honduras,1,0,Friendly,Houston,USA,TRUE
+2018-06-02,Thailand,China,0,2,Friendly,Bangkok,Thailand,FALSE
+2018-06-02,England,Nigeria,2,1,Friendly,London,England,FALSE
+2018-06-02,Montenegro,Slovenia,0,2,Friendly,Podgorica,Montenegro,FALSE
+2018-06-02,Mexico,Scotland,1,0,Friendly,Mexico City,Mexico,FALSE
+2018-06-02,Sweden,Denmark,0,0,Friendly,Solna,Sweden,FALSE
+2018-06-02,Ireland,USA,2,1,Friendly,Dublin,Ireland,FALSE
+2018-06-02,Belgium,Portugal,0,0,Friendly,Brussels,Belgium,FALSE
+2018-06-02,Austria,Germany,2,1,Friendly,Klagenfurt,Austria,FALSE
+2018-06-02,Niger,Uganda,2,1,Friendly,Niamey,Niger,FALSE
+2018-06-02,Iceland,Norway,2,3,Friendly,Reykjav??k,Iceland,FALSE
+2018-06-02,Zambia,Namibia,0,0,COSAFA Cup,Polokwane,South Africa,TRUE
+2018-06-02,Lesotho,Swaziland,1,0,COSAFA Cup,Polokwane,South Africa,TRUE
+2018-06-02,Latvia,Estonia,1,0,Baltic Cup,Riga,Latvia,FALSE
+2018-06-02,Kenya,New Zealand,2,1,Friendly,Mumbai,India,TRUE
+2018-06-02,Ellan Vannin,Tamil Eelam,2,0,ConIFA World Football Cup,Carshalton,England,TRUE
+2018-06-02,Barawa,Cascadia,1,2,ConIFA World Football Cup,Carshalton,England,FALSE
+2018-06-02,Abkhazia,K??rp??talja,0,2,ConIFA World Football Cup,Enfield,England,TRUE
+2018-06-02,Northern Cyprus,Tibet,3,1,ConIFA World Football Cup,Enfield,England,TRUE
+2018-06-02,Sz??kely Land,Matabeleland,5,0,ConIFA World Football Cup,Haringey,England,TRUE
+2018-06-02,Padania,Tuvalu,8,0,ConIFA World Football Cup,Haringey,England,TRUE
+2018-06-02,United Koreans in Japan,Kabylia,0,0,ConIFA World Football Cup,Bracknell,England,TRUE
+2018-06-02,Panjab,Western Armenia,0,1,ConIFA World Football Cup,Slough,England,TRUE
+2018-06-03,Albania,Ukraine,1,4,Friendly,??vian-les-Bains,France,TRUE
+2018-06-03,Saudi Arabia,Peru,0,3,Friendly,St. Gallen,Switzerland,TRUE
+2018-06-03,Spain,Switzerland,1,1,Friendly,Vila-real,Spain,FALSE
+2018-06-03,Croatia,Brazil,0,2,Friendly,Liverpool,England,TRUE
+2018-06-03,Costa Rica,Northern Ireland,3,0,Friendly,San Jos??,Costa Rica,FALSE
+2018-06-03,Barbados,Belize,0,0,Friendly,Bridgetown,Barbados,FALSE
+2018-06-03,Andorra,Cape Verde,0,0,Friendly,Almada,Portugal,TRUE
+2018-06-03,South Africa,Madagascar,0,0,COSAFA Cup,Polokwane,South Africa,FALSE
+2018-06-03,Zimbabwe,Botswana,1,1,COSAFA Cup,Polokwane,South Africa,TRUE
+2018-06-03,Tamil Eelam,Cascadia,0,6,ConIFA World Football Cup,Haringey,England,TRUE
+2018-06-03,Barawa,Ellan Vannin,2,0,ConIFA World Football Cup,Rotherhithe,England,FALSE
+2018-06-03,Abkhazia,Northern Cyprus,2,2,ConIFA World Football Cup,Enfield,England,TRUE
+2018-06-03,K??rp??talja,Tibet,5,1,ConIFA World Football Cup,Bracknell,England,TRUE
+2018-06-03,Padania,Sz??kely Land,3,1,ConIFA World Football Cup,Bedfont,England,TRUE
+2018-06-03,Tuvalu,Matabeleland,1,3,ConIFA World Football Cup,Haringey,England,TRUE
+2018-06-03,Panjab,United Koreans in Japan,1,1,ConIFA World Football Cup,Slough,England,TRUE
+2018-06-03,Western Armenia,Kabylia,4,0,ConIFA World Football Cup,Enfield,England,TRUE
+2018-06-04,Italy,Netherlands,1,1,Friendly,Turin,Italy,FALSE
+2018-06-04,Serbia,Chile,0,1,Friendly,Graz,Austria,TRUE
+2018-06-04,Slovakia,Morocco,1,2,Friendly,Geneva,Switzerland,TRUE
+2018-06-04,Armenia,Moldova,0,0,Friendly,Kematen,Austria,TRUE
+2018-06-04,India,Kenya,3,0,Friendly,Mumbai,India,FALSE
+2018-06-05,Russia,Turkey,1,1,Friendly,Moscow,Russia,FALSE
+2018-06-05,Romania,Finland,2,0,Friendly,Ploie??ti,Romania,FALSE
+2018-06-05,Luxembourg,Georgia,1,0,Friendly,Luxembourg,Luxembourg,FALSE
+2018-06-05,Kazakhstan,Azerbaijan,3,0,Friendly,Astana,Kazakhstan,FALSE
+2018-06-05,Martinique,French Guyana,3,0,Friendly,Fort-de-France,Martinique,FALSE
+2018-06-05,Lithuania,Latvia,1,1,Friendly,Vilnius,Lithuania,FALSE
+2018-06-05,Taiwan,New Zealand,0,1,Friendly,Mumbai,India,TRUE
+2018-06-05,South Africa,Namibia,4,1,COSAFA Cup,Polokwane,South Africa,FALSE
+2018-06-05,Swaziland,Botswana,0,2,COSAFA Cup,Polokwane,South Africa,TRUE
+2018-06-05,Matabeleland,Kabylia,0,0,ConIFA World Football Cup,Enfield,England,TRUE
+2018-06-05,Abkhazia,Tamil Eelam,6,0,ConIFA World Football Cup,Aveley,England,TRUE
+2018-06-05,United Koreans in Japan,Tuvalu,5,0,ConIFA World Football Cup,Bracknell,England,TRUE
+2018-06-05,Barawa,Northern Cyprus,0,8,ConIFA World Football Cup,Sutton,England,FALSE
+2018-06-05,Padania,Panjab,2,0,ConIFA World Football Cup,Bracknell,England,TRUE
+2018-06-05,K??rp??talja,Cascadia,3,1,ConIFA World Football Cup,Sutton,England,TRUE
+2018-06-05,Western Armenia,Sz??kely Land,0,4,ConIFA World Football Cup,Bromley,England,TRUE
+2018-06-06,Norway,Panama,1,0,Friendly,Oslo,Norway,FALSE
+2018-06-06,Czech Republic,Nigeria,1,0,Friendly,Schwechat,Austria,TRUE
+2018-06-06,Belgium,Egypt,3,0,Friendly,Brussels,Belgium,FALSE
+2018-06-06,Belarus,Hungary,1,1,Friendly,Brest,Belarus,FALSE
+2018-06-06,Zambia,Madagascar,1,0,COSAFA Cup,Polokwane,South Africa,TRUE
+2018-06-06,Lesotho,Zimbabwe,0,0,COSAFA Cup,Polokwane,South Africa,TRUE
+2018-06-07,England,Costa Rica,2,0,Friendly,Leeds,England,FALSE
+2018-06-07,Uruguay,Uzbekistan,3,0,Friendly,Montevideo,Uruguay,FALSE
+2018-06-07,Portugal,Algeria,3,0,Friendly,Lisbon,Portugal,FALSE
+2018-06-07,Korea Republic,Bolivia,0,0,Friendly,Innsbruck,Austria,TRUE
+2018-06-07,Iceland,Ghana,2,2,Friendly,Reykjav??k,Iceland,FALSE
+2018-06-07,Guadeloupe,French Guyana,0,2,Friendly,Fort-de-France,Martinique,TRUE
+2018-06-07,India,New Zealand,1,2,Friendly,Mumbai,India,FALSE
+2018-06-07,Tamil Eelam,Tuvalu,4,3,ConIFA World Football Cup,Sutton,England,TRUE
+2018-06-07,Tibet,Kabylia,1,8,ConIFA World Football Cup,Enfield,England,TRUE
+2018-06-07,Abkhazia,United Koreans in Japan,2,0,ConIFA World Football Cup,Bromley,England,TRUE
+2018-06-07,Barawa,Panjab,0,5,ConIFA World Football Cup,Sutton,England,FALSE
+2018-06-07,Cascadia,Western Armenia,4,0,ConIFA World Football Cup,Bromley,England,TRUE
+2018-06-07,Northern Cyprus,Padania,3,2,ConIFA World Football Cup,Carshalton,England,TRUE
+2018-06-07,K??rp??talja,Sz??kely Land,4,2,ConIFA World Football Cup,Carshalton,England,TRUE
+2018-06-08,Germany,Saudi Arabia,2,1,Friendly,Leverkusen,Germany,FALSE
+2018-06-08,Croatia,Senegal,2,1,Friendly,Osijek,Croatia,FALSE
+2018-06-08,Switzerland,Japan,2,0,Friendly,Lugano,Switzerland,FALSE
+2018-06-08,Lithuania,Iran,0,1,Friendly,Moscow,Russia,TRUE
+2018-06-08,Poland,Chile,2,2,Friendly,Pozna??,Poland,FALSE
+2018-06-08,Taiwan,Kenya,0,4,Friendly,Mumbai,India,TRUE
+2018-06-09,Serbia,Bolivia,5,1,Friendly,Graz,Austria,TRUE
+2018-06-09,Denmark,Mexico,2,0,Friendly,Br??ndby,Denmark,FALSE
+2018-06-09,Sweden,Peru,0,0,Friendly,Gothenburg,Sweden,FALSE
+2018-06-09,Hungary,Australia,1,2,Friendly,Budapest,Hungary,FALSE
+2018-06-09,Estonia,Morocco,1,3,Friendly,Tallinn,Estonia,FALSE
+2018-06-09,Latvia,Azerbaijan,1,3,Friendly,Riga,Latvia,FALSE
+2018-06-09,Finland,Belarus,2,0,Friendly,Tampere,Finland,FALSE
+2018-06-09,Tunisia,Spain,0,1,Friendly,Krasnodar,Russia,TRUE
+2018-06-09,France,USA,1,1,Friendly,Lyon,France,FALSE
+2018-06-09,Matabeleland,Tamil Eelam,1,0,ConIFA World Football Cup,Aveley,England,TRUE
+2018-06-09,Tibet,United Koreans in Japan,1,1,ConIFA World Football Cup,Rotherhithe,England,TRUE
+2018-06-09,Kabylia,Abkhazia,0,2,ConIFA World Football Cup,Aveley,England,TRUE
+2018-06-09,Barawa,Western Armenia,0,7,ConIFA World Football Cup,Haringey,England,FALSE
+2018-06-09,Panjab,Cascadia,3,3,ConIFA World Football Cup,Rotherhithe,England,TRUE
+2018-06-09,Padania,Sz??kely Land,0,0,ConIFA World Football Cup,Enfield,England,TRUE
+2018-06-09,Northern Cyprus,K??rp??talja,0,0,ConIFA World Football Cup,Enfield,England,TRUE
+2018-06-10,Austria,Brazil,0,3,Friendly,Vienna,Austria,FALSE
+2018-06-11,Korea Republic,Senegal,0,2,Friendly,Gr??dig,Austria,TRUE
+2018-06-11,Belgium,Costa Rica,4,1,Friendly,Brussels,Belgium,FALSE
+2018-06-12,Japan,Paraguay,4,2,Friendly,Innsbruck,Austria,TRUE
+2018-06-12,Poland,Lithuania,4,0,Friendly,Warsaw,Poland,FALSE
+2018-06-14,Russia,Saudi Arabia,5,0,FIFA World Cup,Moscow,Russia,FALSE
+2018-06-15,Egypt,Uruguay,0,1,FIFA World Cup,Ekaterinburg,Russia,TRUE
+2018-06-15,Morocco,Iran,0,1,FIFA World Cup,St. Petersburg,Russia,TRUE
+2018-06-15,Portugal,Spain,3,3,FIFA World Cup,Sochi,Russia,TRUE
+2018-06-16,France,Australia,2,1,FIFA World Cup,Kazan,Russia,TRUE
+2018-06-16,Argentina,Iceland,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-16,Peru,Denmark,0,1,FIFA World Cup,Saransk,Russia,TRUE
+2018-06-16,Croatia,Nigeria,2,0,FIFA World Cup,Kaliningrad,Russia,TRUE
+2018-06-17,Costa Rica,Serbia,0,1,FIFA World Cup,Samara,Russia,TRUE
+2018-06-17,Germany,Mexico,0,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-17,Brazil,Switzerland,1,1,FIFA World Cup,Rostov-on-Don,Russia,TRUE
+2018-06-18,Sweden,Korea Republic,1,0,FIFA World Cup,Nizhny Novgorod,Russia,TRUE
+2018-06-18,Belgium,Panama,3,0,FIFA World Cup,Sochi,Russia,TRUE
+2018-06-18,Tunisia,England,1,2,FIFA World Cup,Volgograd,Russia,TRUE
+2018-06-19,Colombia,Japan,1,2,FIFA World Cup,Saransk,Russia,TRUE
+2018-06-19,Poland,Senegal,1,2,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-19,Russia,Egypt,3,1,FIFA World Cup,St Petersburg,Russia,FALSE
+2018-06-20,Portugal,Morocco,1,0,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-20,Uruguay,Saudi Arabia,1,0,FIFA World Cup,Rostov-on-Don,Russia,TRUE
+2018-06-20,Iran,Spain,0,1,FIFA World Cup,Kazan,Russia,TRUE
+2018-06-21,Denmark,Australia,1,1,FIFA World Cup,Samara,Russia,TRUE
+2018-06-21,France,Peru,1,0,FIFA World Cup,Ekaterinburg,Russia,TRUE
+2018-06-21,Argentina,Croatia,0,3,FIFA World Cup,Nizhny Novgorod,Russia,TRUE
+2018-06-22,Brazil,Costa Rica,2,0,FIFA World Cup,St. Petersburg,Russia,TRUE
+2018-06-22,Nigeria,Iceland,2,0,FIFA World Cup,Volgograd,Russia,TRUE
+2018-06-22,Serbia,Switzerland,1,2,FIFA World Cup,Kaliningrad,Russia,TRUE
+2018-06-23,Belgium,Tunisia,5,2,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-23,Korea Republic,Mexico,1,2,FIFA World Cup,Rostov-on-Don,Russia,TRUE
+2018-06-23,Germany,Sweden,2,1,FIFA World Cup,Sochi,Russia,TRUE
+2018-06-24,England,Panama,6,1,FIFA World Cup,Nizhny Novgorod,Russia,TRUE
+2018-06-24,Japan,Senegal,2,2,FIFA World Cup,Ekaterinburg,Russia,TRUE
+2018-06-24,Poland,Colombia,0,3,FIFA World Cup,Kazan,Russia,TRUE
+2018-06-25,Russia,Uruguay,0,3,FIFA World Cup,Samara,Russia,FALSE
+2018-06-25,Saudi Arabia,Egypt,2,1,FIFA World Cup,Volgograd,Russia,TRUE
+2018-06-25,Spain,Morocco,2,2,FIFA World Cup,Kaliningrad,Russia,TRUE
+2018-06-25,Iran,Portugal,1,1,FIFA World Cup,Saransk,Russia,TRUE
+2018-06-26,Australia,Peru,0,2,FIFA World Cup,Sochi,Russia,TRUE
+2018-06-26,Denmark,France,0,0,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-26,Nigeria,Argentina,1,2,FIFA World Cup,St. Petersburg,Russia,TRUE
+2018-06-26,Iceland,Croatia,1,2,FIFA World Cup,Rostov-on-Don,Russia,TRUE
