@@ -3,13 +3,11 @@
 Materials in Week 1 are updated.
 
 Download the zip file of each week, by RIGHT CLICKING and SAVE AS... in your computer:
-![alt text][downloadButton2]
+<img src="https://github.com/kyalan/CUHK-PyTutorial-2018/blob/master/Image/DownloadButton2.PNG" width="480">
 
 Or, download the whole folder by pressing the light green button at top-right corner.
-![alt text][downloadButton]
+<img src="https://github.com/kyalan/CUHK-PyTutorial-2018/blob/master/Image/DownloadButton.PNG" width="480">
 
-[downloadButton]: https://github.com/kyalan/CUHK-PyTutorial-2018/blob/master/Image/DownloadButton.PNG "Logo Title Text 2"
-[downloadButton2]: https://github.com/kyalan/CUHK-PyTutorial-2018/blob/master/Image/DownloadButton2.PNG "Logo Title Text 2"
 
 ---
 
