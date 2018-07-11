@@ -2,7 +2,7 @@
 
 Materials in Week 1 are updated.
 
-Download the zip file of each week, by RIGHT CLICKING and SAVE AS... in your computer:
+(For Chrome users only) Download the zip file of each week, by RIGHT CLICKING and SAVE AS... in your computer:
 <img src="https://github.com/kyalan/CUHK-PyTutorial-2018/blob/master/Image/DownloadButton2.PNG" width="480">
 
 Or, download the whole folder by pressing the light green button at top-right corner.
