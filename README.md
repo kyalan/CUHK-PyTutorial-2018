@@ -1,7 +1,6 @@
 *(Updated on 11 July 2018)*
 
-If you guys have any questions / comments / ideas (not limited to what I have talked in the course), you can leave somethings under the "Issues" tab. <br>
-<img src="https://github.com/kyalan/CUHK-PyTutorial-2018/blob/master/Image/IssuesButton.png" width="480">
+If you guys have any questions / comments / ideas (not limited to what I have talked in the course), you can leave somethings under the chatroom in CUHK blackboard. <br>
 
 ---
 
