@@ -1,3 +1,10 @@
+*(Updated on 17 July 2018)*
+
+Materials in Week 2 are updated. <br>
+and also the Solution of Class Exercises in Week 1 is also uploaded. <br>
+
+---
+
 *(Updated on 11 July 2018)*
 
 If you guys have any questions / comments / ideas (not limited to what I have talked in the course), you can leave somethings under the chatroom in CUHK blackboard. <br>
