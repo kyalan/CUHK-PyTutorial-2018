@@ -1,0 +1,70 @@
+Destination,Dest_Country,Cabin,Price,Price_tax,Date_start,Date_end
+Adelaide,Australia,Economy,3480,4440,19/08/2018,09/09/2018
+Adelaide,Australia,Business,23080,24072,04/08/2018,29/08/2018
+Adelaide,Australia,Economy,3480,4463,24/06/2018,04/07/2018
+Auckland,New Zealand,Economy,3980,4673,30/07/2018,12/08/2018
+Auckland,New Zealand,Business,9980,10673,13/07/2018,12/08/2018
+Bangalore,India,Economy,3180,3704,13/06/2018,03/07/2018
+Bangkok,Thailand,Economy,1280,1729,01/09/2018,14/09/2018
+Barcelona,Spain,Economy,3480,4002,15/10/2018,31/10/2018
+Brussels,Belgium,Economy,3980,4574,11/10/2018,31/10/2018
+Busan,South Korea,Economy,2600,3017,13/07/2018,23/08/2018
+Calcutta,India,Economy,3180,4463,20/06/2018,06/07/2018
+Cebu,Philippines,Business,4460,4790,07/09/2018,20/09/2018
+Chennai,India,Economy,3180,3545,07/08/2018,15/08/2018
+Chiang Mai,Thailand,Economy,2000,2460,01/09/2018,14/09/2018
+Chicago,USA,Economy,3480,4304,07/09/2018,16/09/2018
+Clark,Philippines,Economy,880,1135,08/07/2018,05/08/2018
+Copenhagen,Denmark,Economy,3480,4008,05/10/2018,22/10/2018
+Copenhagen,Denmark,Economy,3580,4109,06/07/2018,05/08/2018
+Delhi,India,Economy,2780,3144,24/07/2018,06/08/2018
+Dhaka,Bangladesh,Economy,1980,2924,13/06/2018,20/06/2018
+Dubai,UAE,Economy,2880,3474,04/09/2018,18/09/2018
+Dublin,Ireland,Economy,3980,4423,13/06/2018,09/07/2018
+Fukuoka,Japan,Economy,2380,2704,02/09/2018,16/09/2018
+Fukuoka,Japan,Economy,2380,2705,01/09/2018,14/09/2018
+Guilin,China,Economy,580,945,27/07/2018,26/08/2018
+Haikou,China,Economy,580,945,28/06/2018,12/07/2018
+Hangzhou,China,Economy,880,1246,20/07/2018,19/08/2018
+Hanoi,Vietnam,Economy,1080,1548,13/06/2018,27/06/2018
+Ho Chi Minh City,Vietnam,Economy,2110,2540,01/09/2018,14/09/2018
+Ho Chi Minh City,Vietnam,Economy,1180,1608,01/09/2018,14/09/2018
+Jinan,China,Economy,880,1246,23/06/2018,05/07/2018
+Johannesburg,South Africa,Economy,3980,4587,24/07/2018,07/08/2018
+Kuala Lumpur,Malaysia,Economy,1760,2160,01/09/2018,14/09/2018
+Kuala Lumpur,Malaysia,Economy,1180,1581,01/09/2018,14/09/2018
+London (Gaiteweike),United Kingdom,Economy,3480,4764,17/09/2018,17/10/2018
+London (Heathrow),United Kingdom,Economy,3480,5086,17/09/2018,17/10/2018
+Manila,Philippines,Economy,980,1316,05/10/2018,18/10/2018
+Medan,Indonesia,Economy,1880,2244,29/10/2018,08/12/2018
+Mumbai,India,Economy,3480,3973,16/07/2018,07/08/2018
+Nagoya,Japan,Economy,2380,2821,01/09/2018,14/09/2018
+Nanning,China,Economy,580,942,13/07/2018,29/07/2018
+New York (Newark),USA,Economy,3680,4504,09/09/2018,16/09/2018
+Okinawa,Japan,Economy,2080,2407,01/09/2018,14/09/2018
+Osaka,Japan,Economy,2080,2553,01/09/2018,14/09/2018
+Osaka,Japan,Economy,2380,2853,01/09/2018,14/09/2018
+Paris,France,Economy,3680,4492,05/09/2018,27/09/2018
+Phnom Penh,Cambodia,Economy,1180,1672,20/07/2018,09/08/2018
+Phnom Penh,Cambodia,Economy,1180,1672,06/08/2018,31/08/2018
+Phnom Penh,Cambodia,Economy,1180,1672,06/07/2018,05/08/2018
+Phuket,Thailand,Business,4430,4960,01/09/2018,17/09/2018
+Shanghai (Pudong),China,Economy,1450,1820,01/07/2018,31/08/2018
+Qingdao,China,Economy,2330,2695,01/07/2018,24/07/2018
+San Francisco,USA,Economy,3480,4304,06/09/2018,18/09/2018
+Sanya,China,Economy,1280,1640,01/07/2018,31/08/2018
+Seoul,South Korea,Economy,1280,1732,01/09/2018,14/09/2018
+Singapore,Singapore,Economy,1480,1937,01/09/2018,14/09/2018
+Sydney,Australia,Economy,3480,4542,24/06/2018,10/07/2018
+Taipei,Taiwan,Economy,1590,1980,05/08/2018,31/08/2018
+Taipei,Taiwan,Economy,880,1267,13/07/2018,12/08/2018
+Taipei,Taiwan,Business,3840,4286,01/07/2018,31/07/2018
+Tokyo (Narita),Japan,Economy,2380,2821,01/09/2018,14/09/2018
+Vancouver,Canada,Economy,3880,4482,09/10/2018,08/12/2018
+Vancouver,Canada,Economy,5280,5889,06/07/2018,11/07/2018
+Xiamen,China,Economy,580,942,10/08/2018,09/09/2018
+Yangon,Myanmar,Economy,1580,2044,12/06/2018,25/06/2018
+Taipei,Taiwan,Economy,1610,1998,22/02/2018,24/03/2018
+Taipei,Taiwan,Economy,1530,1910,20/01/2018,10/02/2018
+Taipei,Taiwan,Economy,NA,NA,20/03/2018,10/04/2018
+Taipei,Taiwan,Economy,NA,NA,13/04/2018,09/05/2018
