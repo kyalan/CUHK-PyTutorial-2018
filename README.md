@@ -1,3 +1,14 @@
+*(Updated on 20 July 2018)*
+
+Solution of Class Exercises in Week 2 (up to Exercise 4) is uploaded. <br>
+Also in our class Blackboard, I have placed Introduction Notes for Hadoop. <br>
+All guys are welcome to check that out, with further more URL for your reference: <br>
+
+* Cloudera VM: https://www.cloudera.com/downloads/quickstart_vms/5-13.html
+* further reference in Chinese: http://kliangh.blogspot.com/2015/09/hadoop-mapreduce-cloudera-cdh.html
+
+---
+
 *(Updated on 17 July 2018)*
 
 Materials in Week 2 are updated. <br>
