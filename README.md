@@ -32,8 +32,10 @@ If you guys have any questions / comments / ideas (not limited to what I have ta
 
 Materials in Week 1 are updated.
 
-(For Chrome users only) Download the zip file of each week, by RIGHT CLICKING and SAVE AS... in your computer: <br>
-<img src="https://github.com/kyalan/CUHK-PyTutorial-2018/blob/master/Image/DownloadButton2.PNG" width="480">
+(For Chrome users only) Download the zip file of each week, CLICK-IN... <br>
+<img src="https://github.com/kyalan/CUHK-PyTutorial-2018/blob/master/Image/DownloadButton2.PNG" width="480"><br>
+and downloaded by RIGHT CLICKING and SAVE AS... in your computer: <br>
+<img src="https://github.com/kyalan/CUHK-PyTutorial-2018/blob/master/Image/DownloadButton3.PNG" width="480"><br>
 
 Or, download the whole folder by pressing the light green button at top-right corner. <br>
 <img src="https://github.com/kyalan/CUHK-PyTutorial-2018/blob/master/Image/DownloadButton.PNG" width="480">
