@@ -1,3 +1,9 @@
+*(Updated on 25 July 2018)*
+
+Materials in Week 3 are updated. <br>
+
+---
+
 *(Updated on 20 July 2018)*
 
 Solution of Class Exercises in Week 2 (up to Exercise 4) is uploaded. <br>
