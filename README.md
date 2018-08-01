@@ -1,4 +1,4 @@
-*(Updated on 25 July 2018)*
+*(Updated on 1 August 2018)*
 
 Materials in Week 4 are updated. <br>
 and also the Solution of Class Exercises in Week 3 is also uploaded. <br>
