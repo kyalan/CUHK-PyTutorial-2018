@@ -1,3 +1,12 @@
+*(Updated on 8 August 2018)*
+
+The final week ! <br>
+Materials in Week 5 are updated. <br>
+and also the Solution of Class Exercises in Week 4 is also uploaded. <br>
+Hope you guys enjoy ! <br>
+
+---
+
 *(Updated on 1 August 2018)*
 
 Materials in Week 4 are updated. <br>
