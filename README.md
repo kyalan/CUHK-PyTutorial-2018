@@ -1,3 +1,9 @@
+*(Updated on 10 August 2018)*
+
+The Solution of Class Exercises in Week 5 is uploaded.
+
+---
+
 *(Updated on 8 August 2018)*
 
 The final week ! <br>
